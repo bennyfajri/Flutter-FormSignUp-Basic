@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshot Aplikasi
 
-This project is a starting point for a Flutter application.
+![Screenshot 1](https://github.com/bennyfajri/Flutter-FormSignUp-Basic/tree/main/assets/Screenshot_1616310292.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 1](https://github.com/bennyfajri/Flutter-FormSignUp-Basic/tree/main/assets/Screenshot_1616310306.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
